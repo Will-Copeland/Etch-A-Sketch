@@ -1,0 +1,86 @@
+/* * {
+border: solid 1px black;
+}
+*/
+body {
+}
+html {
+background-color: #1A629C;
+
+
+
+}
+
+span {
+font-size: 40px;
+color: #FFF;
+float: center;
+font-family: 'Lakki Reddy', cursive;
+margin: 10px 10px;
+}
+
+span b {
+color: black;
+}
+
+#title {
+font-size: 50px;
+text-align:center;
+
+}
+
+ul {
+width: 810px;
+height:35px;
+display: block;
+margin: 18px auto;
+padding: 0px;
+text-align: center;
+}
+
+.grid {
+width: 800px;
+height: 800px;
+margin: auto;
+box-shadow: 1px 1px 3px 5px;
+border: solid 5px #3E9CE8; 
+
+}
+
+#clearWhite {
+background-color: white;
+color: black;
+box-shadow: none;
+}
+
+#clearBlack {
+background-color: black;
+color: white;
+box-shadow: none;
+}
+button {
+width: 118px;
+height: 35px;
+margin:3px 20px;
+font-size: 20px;
+border:none;
+border-radius: 5px;
+box-shadow: 3px 1px 3px 1px;
+font-family: 'Lakki Reddy', cursive;
+background-color: #EC5C57;
+
+}
+
+.square {
+display: inline-block;
+float:left;
+margin: 0;
+padding:0;
+
+
+}
+
+.row {
+margin:0;
+padding: 0;
+}
